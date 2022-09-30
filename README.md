@@ -31,8 +31,8 @@ TECNOLOGÍAS
 ✅ Solidity, Web3.js y Ethers.js
 
 - LinkedIn
-linkedin.com/in/miguel-huaman-desarrollador-blockchain
+https://linkedin.com/in/miguel-huaman-desarrollador-blockchain
 - Blog
-miguelhuaman.com
+https://miguelhuaman.com
 - Repo:
 https://github.com/MIGUEL1man/
